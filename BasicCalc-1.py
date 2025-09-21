@@ -1,0 +1,6 @@
+num1=float(input("enter 1st number "))
+num2=float(input("enter 2nd number "))
+print("the value of",num1,"+",num2,"=",num1+num2)
+print("the value of",num1,"-",num2,"=",num1-num2)
+print("the value of",num1,"*",num2,"=",num1*num2)
+print("the value of",num1,"/",num2,"=",num1/num2)
