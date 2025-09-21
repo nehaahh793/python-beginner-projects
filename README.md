@@ -1,5 +1,5 @@
 #My Basic Python Programs
-This repository contains some basic python programs for practice.
+#This repository contains some basic python programs for practice.
 ## Programs
 1.  Hello World
    -prints "Hello World" on the screen
