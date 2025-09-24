@@ -11,3 +11,5 @@
    -Performs basic operations(+,-,*,/) based on the user input.
 5. Calendar Generator
    -Displays the calendar of any month of any year entered by the user.   
+6. Tables For Any Number
+   -Performs multiplication and gives multiples for any number you choose upto 10.
